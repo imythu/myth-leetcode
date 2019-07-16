@@ -1,7 +1,4 @@
-package solution4;
-
-import java.util.Arrays;
-import java.util.BitSet;
+package arithmetic.solution4;
 
 /**
  * @author imythu

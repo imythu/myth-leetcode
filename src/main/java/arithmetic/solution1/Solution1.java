@@ -1,4 +1,4 @@
-package solution1;
+package arithmetic.solution1;
 
 import java.util.*;
 

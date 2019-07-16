@@ -1,4 +1,4 @@
-package solution2;
+package arithmetic.solution2;
 
 /**
  * @author LeetCode

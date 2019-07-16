@@ -1,4 +1,4 @@
-package solution3;
+package arithmetic.solution3;
 
 import java.util.HashMap;
 import java.util.Map;
