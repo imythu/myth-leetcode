@@ -1,4 +1,4 @@
-package thread.solution2;
+package thread.solution1115;
 
 import util.thread.ThreadFactoryBuilder;
 
