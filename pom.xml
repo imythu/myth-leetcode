@@ -23,6 +23,19 @@
   </properties>
 
   <dependencies>
+    <!-- https://mvnrepository.com/artifact/cglib/cglib -->
+    <dependency>
+      <groupId>cglib</groupId>
+      <artifactId>cglib</artifactId>
+      <version>3.2.12</version>
+    </dependency>
+    <!-- https://mvnrepository.com/artifact/org.ow2.asm/asm -->
+    <dependency>
+      <groupId>org.ow2.asm</groupId>
+      <artifactId>asm</artifactId>
+      <version>7.1</version>
+    </dependency>
+
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
